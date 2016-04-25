@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./joannishedwigsp02schwgoog_0500.png"; bbox 0 0 1290 1540; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 451 1200 780 1245">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 451 1200 780 1245">
+     <span class='ocr_line' id='line_1_1' title="bbox 451 1200 780 1245; baseline 0.015 -15"><span class='ocrx_word' id='word_1_1' title='bbox 451 1200 595 1245; x_wconf 43' lang='lat' dir='ltr'><em>kffllb‘tistrtld</em></span> <span class='ocrx_word' id='word_1_2' title='bbox 607 1205 780 1235; x_wconf 51' lang='lat' dir='ltr'><em>ffitbvmaovsbs</em></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 959 272 1054 292">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 959 272 1054 292">
+     <span class='ocr_line' id='line_1_2' title="bbox 959 272 1054 292; baseline 0.011 -1"><span class='ocrx_word' id='word_1_3' title='bbox 959 272 1054 292; x_wconf 65' lang='lat' dir='ltr'><strong>(zrzm</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 189 339 1002 1191">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 189 339 1002 1191">
+     <span class='ocr_line' id='line_1_3' title="bbox 189 339 1002 1191; baseline 0 0"><span class='ocrx_word' id='word_1_4' title='bbox 189 339 1002 1191; x_wconf 95' lang='lat' dir='ltr'><em> </em></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
